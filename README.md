@@ -1,4 +1,4 @@
-# -Ideots
+# Lirten
 
 Create website for Lirten Inc for software course in university (CSEN 603
 Software Engineering) with Frontend and Backend with at least to features
